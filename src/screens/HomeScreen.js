@@ -32,7 +32,7 @@ const HomeScreen = ({ navigation }) => {
       onPress={() => navigation.navigate('Text')}
     />
     <Button
-      title="Go To Box Model Demo"
+      title="Go To Styling Layout Demo"
       onPress={() => navigation.navigate('Box')}
     />
   </View>
